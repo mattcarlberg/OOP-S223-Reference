@@ -3,6 +3,21 @@ Spring 2023
 
 # References 
 
+## Class 26 - Functions
+
+* Card game [video lecture](https://drive.google.com/file/d/1lb_jEPVUz7pJPG8qPUVsL_f7t0oLG7SK/view?usp=sharing) and [demo code](https://replit.com/@mcarlberg/HW25DemoCardGame) 
+
+* In-class presentations: [Class 26](https://docs.google.com/presentation/d/1Rh9RE0sM7vgIac4cLZUcg7gJSmpTqvctlKMDYRsyZaE/edit?usp=sharing) and [Class 25](https://docs.google.com/presentation/d/1FZ24mihihAAokEe_RDMfWVEO07kc_COFP4deDepPhes/edit)
+
+* HW 24 Functions Practice [Solutions](https://replit.com/@mcarlberg/HW24-FunctionsPractice-SOLUTIONS#main.py)
+
+* W3Schools tutorial on [functions](https://www.w3schools.com/python/python_functions.asp)
+   
+* Relevant [flash cards](https://drive.google.com/file/d/1Pbpyg1eRtImUo-kD8Pbx9Y5JPk1WavrA/view?usp=sharing)
+
+* Extended [reading](https://drive.google.com/file/d/1PVRf7MvHokHhCdiz7o4ey2tsB_nZSbgv/view?usp=sharing)
+
+
 ## Class 17 - Lists
 
 * Class 16 [list algorithms](https://docs.google.com/document/d/1igj3J9fbM-vat0iPu3uc39PXeYIbzXyFGDco9q-5rq0/edit?usp=sharing) and Class 15 [whiteboard examples with answers](https://docs.google.com/document/d/1J2mML1EloTDHoIbXXb4WuJZQw4llKBgwzZd1fy50VJk/edit?usp=sharing)
