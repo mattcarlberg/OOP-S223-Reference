@@ -3,6 +3,28 @@ Spring 2023
 
 # References 
 
+
+## Class 31 - Instances
+
+
+* Class 30 [opener problems with solutions](https://docs.google.com/document/d/1FZTxpFXTqn3e8_cHIVui8Ugp431XpE9qzkAXjLt7qjs/edit?usp=sharing)
+
+* Class 29 [slides](https://docs.google.com/presentation/d/1BBvFPoN6uUJ20F2wvP-GLRPW6fu1yhhag-SMIub4tvo/edit?usp=sharing) and [demo](https://replit.com/@mcarlberg/object-orientation-introduction#main.py)
+
+* HW 29 [walkthrough video](https://drive.google.com/file/d/1CJ-o3__WuCYcoawkBmIaZFIDEtHfh2n5/view?usp=sharing).  
+
+* Relevant Python [flash cards](https://drive.google.com/file/d/1QKyQxlOHqRF-_TO8F-SQ9cBkp4qzV4ke/view?usp=sharing)
+
+* Code HS Videos on [classes/objects](https://www.youtube.com/watch?v=hNuH-hn8Ezk) and [methods](https://www.youtube.com/watch?v=vAolpcnrEb4)
+
+* Geeks for Geeks tutorials
+    * general OOP [concepts](https://www.geeksforgeeks.org/python-oops-concepts/)
+    * `__init__()` [method](https://www.geeksforgeeks.org/__init__-in-python/)
+    * `self` [parameter](https://www.geeksforgeeks.org/self-in-python-class/?ref=lbp)
+
+* a short [tutorial](https://www.pythontutorial.net/python-oop/python-__str__/) on `__str__()`
+
+
 ## Class 26 - Functions
 
 * Card game [video lecture](https://drive.google.com/file/d/1lb_jEPVUz7pJPG8qPUVsL_f7t0oLG7SK/view?usp=sharing) and [demo code](https://replit.com/@mcarlberg/HW25DemoCardGame) 
