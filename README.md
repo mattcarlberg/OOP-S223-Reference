@@ -4,7 +4,30 @@ Spring 2023
 # References 
 
 
-## Class 31 - Instances
+## Class 51 - Dictionaries
+
+* Class 51 examples:  
+  * [Intro](https://replit.com/@mcarlberg/IntroDictionary#main.py)
+  * A classic [example](https://replit.com/@mcarlberg/DictionaryClassic#main.py) with [visualization](https://pythontutor.com/visualize.html#code=s%20%3D%20%22she%20sells%20seashells%20by%20the%20seashore%22%0A%0Afrequency%20%3D%20%7B%7D%0Afor%20letter%20in%20s%3A%0A%20%20if%20letter%20in%20frequency%3A%0A%20%20%20%20frequency%5Bletter%5D%20%2B%3D%201%0A%20%20else%3A%0A%20%20%20%20frequency%5Bletter%5D%20%3D%201%0A%0Aprint%28frequency%29%0A&cumulative=false&curInstr=0&heapPrimitives=nevernest&mode=display&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false)
+
+* W3 schools [intro to dictionaries](https://www.w3schools.com/python/python_dictionaries.asp) and [dictionary methods](https://www.w3schools.com/python/python_ref_dictionary.asp).
+
+
+
+## Class 39 - Lists of Objects
+
+* Important [visualization](https://docs.google.com/document/d/1KcAgNzjsaoo0uVGgnm81g0mD3ECtbuCTYG_SXUM7KjE/edit?usp=sharing) of a Race object from Project 2.
+
+* [Demo code](https://replit.com/@mcarlberg/ListOfObjects-Ver1#main.py) of a list of Human objects.
+
+* [Demo code](https://replit.com/@mcarlberg/ListOfObjects-Ver2#main.py) of defining a School object, which has a list of Student objects as an attribute. 
+
+* Geeks for Geeks [tutorial](https://www.geeksforgeeks.org/how-to-create-a-list-of-object-in-python-class/)
+
+
+
+
+## Class 33 - Classes<br>Class 31 - Instances
 
 
 * Class 30 [opener problems with solutions](https://docs.google.com/document/d/1FZTxpFXTqn3e8_cHIVui8Ugp431XpE9qzkAXjLt7qjs/edit?usp=sharing)
